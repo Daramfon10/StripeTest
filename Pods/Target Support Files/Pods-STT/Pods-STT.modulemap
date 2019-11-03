@@ -1,0 +1,6 @@
+framework module Pods_STT {
+  umbrella header "Pods-STT-umbrella.h"
+
+  export *
+  module * { export * }
+}
